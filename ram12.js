@@ -1,1 +1,2 @@
-hello ranaji
+hello ranaji;
+hello git ;
